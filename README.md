@@ -1,1 +1,1 @@
-# RSUIT
+# EduTrack by MSUIT
